@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-:computer: **Ingeniero Electrónico**
-:pencil: **Aficionado Linux y del software libre**
-:eyeglasses: **Fan de Star Wars**
-:oncoming_automobile: **Amante de la matemáticas, bicicletas y video juegos...**
+- :computer: **Ingeniero Electrónico**
+- :pencil: **Aficionado Linux y del software libre**
+- :eyeglasses: **Fan de Star Wars**
+- :oncoming_automobile: **Amante de la matemáticas, bicicletas y video juegos...**
 
 <!--
 **catorresca/catorresca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
