@@ -2,7 +2,7 @@
 
 :computer: **Ingeniero Electrónico**
 :pencil: **Aficionado Linux y del software libre**
-:eyeglassess: **Fan de Star Wars**
+:eyeglasses: **Fan de Star Wars**
 :oncoming_automobile: **Amante de la matemáticas, bicicletas y video juegos...**
 
 <!--
